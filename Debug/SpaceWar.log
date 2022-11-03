@@ -1,0 +1,11 @@
+﻿MSVCRTD.lib(initializers.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+  SpaceWar.vcxproj -> C:\Users\sashk\Source\Repos\SpaceWar\Debug\SpaceWar.exe
+  C:\Users\sashk\Source\Repos\SpaceWar\SpaceWar\Shaders\fragment.frag
+  C:\Users\sashk\Source\Repos\SpaceWar\SpaceWar\Shaders\mvp.vert
+  2 File(s) copied
+  C:\Users\sashk\Source\Repos\SpaceWar\SpaceWar\Resources\Explosion.jpg
+  C:\Users\sashk\Source\Repos\SpaceWar\SpaceWar\Resources\space3.jpg
+  C:\Users\sashk\Source\Repos\SpaceWar\SpaceWar\Resources\SpaceShip1.jpg
+  C:\Users\sashk\Source\Repos\SpaceWar\SpaceWar\Resources\SpaceShip2.jpg
+  C:\Users\sashk\Source\Repos\SpaceWar\SpaceWar\Resources\SpaceShip3.jpg
+  5 File(s) copied
